@@ -1,0 +1,70 @@
+[
+    {
+        "question": "What is your return policy?",
+        "answer": "You can return products within 30 days of purchase. Please make sure the items are in their original condition."
+    },
+    {
+        "question": "How long does shipping take?",
+        "answer": "Shipping typically takes 3-5 business days. You will receive a tracking number once your order has shipped."
+    },
+    {
+        "question": "Do you offer international shipping?",
+        "answer": "Yes, we ship to many countries worldwide. Please check our shipping page for a list of available countries and shipping rates."
+    },
+    {
+        "question": "Hello",
+        "answer": "Hi there! How can I assist you today?"
+    },
+    {
+        "question": "Hi",
+        "answer": "Hello! How can I help you?"
+    },
+    {
+        "question": "Goodbye",
+        "answer": "Goodbye! Have a great day!"
+    },
+    {
+        "question": "Thank you",
+        "answer": "You're welcome! If you have any other questions, feel free to ask."
+    },
+    {
+        "question": "What are your store hours?",
+        "answer": "We are open Monday to Friday from 9 AM to 6 PM, and Saturday from 10 AM to 4 PM. We are closed on Sundays."
+    },
+    {
+        "question": "Where are you located?",
+        "answer": "Our store is located at 123 Main Street, Anytown, USA. You can also find us online at www.example.com."
+    },
+    {
+        "question": "How can I track my order?",
+        "answer": "Once your order has shipped, you will receive a tracking number via email. You can use this number to track your shipment on our website or through the carrier’s tracking page."
+    },
+    {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept major credit cards, PayPal, and bank transfers. You can select your preferred payment method at checkout."
+    },
+    {
+        "question": "Can I change my order after it has been placed?",
+        "answer": "Orders can be modified or canceled within 24 hours of placement. Please contact our customer service team as soon as possible to make any changes."
+    },
+    {
+        "question": "Do you offer gift cards?",
+        "answer": "Yes, we offer gift cards in various denominations. You can purchase them online or at our store."
+    },
+    {
+        "question": "How can I contact customer service?",
+        "answer": "You can reach our customer service team by email at support@example.com or by phone at (123) 456-7890 during our business hours."
+    },
+    {
+        "question": "Do you offer any discounts or promotions?",
+        "answer": "We frequently offer discounts and promotions. Sign up for our newsletter to receive the latest updates and special offers."
+    },
+    {
+        "question": "I received a damaged item. What should I do?",
+        "answer": "If you receive a damaged item, please contact our customer service team immediately with your order number and a photo of the damage. We will arrange for a replacement or refund."
+    },
+    {
+        "question": "How do I return an item?",
+        "answer": "To return an item, please follow the instructions provided in your order confirmation email or visit our returns page on our website for detailed steps."
+    }
+]
