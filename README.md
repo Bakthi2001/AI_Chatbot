@@ -1,4 +1,4 @@
-# Codealpha_AI_Chatbot
+#AI_Chatbot
 a chatbot that can answer frequently asked questions (FAQs) about a particular topic or product.
 To run the chatbot, follow these steps:
 
